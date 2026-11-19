@@ -1,4 +1,4 @@
-![TeleportCargo-Sim cover](assets/cover.png)
+![TeleportCargo-Sim cover](TeleportCargo-Sim%20cover%20%281%29.png)
 
 # TeleportCargo-Sim 📦⚛️
 
